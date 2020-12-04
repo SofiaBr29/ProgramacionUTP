@@ -2,3 +2,5 @@
 **************************
  Nombre de folleto: sofia Nombre producto: compa�ante permanenteTotal 78.66 
 **************************
+ Nombre de folleto: cd Total 0 
+**************************
